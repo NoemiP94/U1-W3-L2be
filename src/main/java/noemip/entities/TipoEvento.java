@@ -1,2 +1,5 @@
-package noemip.entities;public enum TipoEvento {
+package noemip.entities;
+
+public enum TipoEvento {
+    PUBBLICO, PRIVATO
 }
